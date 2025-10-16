@@ -1,0 +1,12 @@
+{
+  "qa_pairs": [
+    {
+      "question": "What is a chatbot?",
+      "answer": "A chatbot is an AI-powered program designed to simulate conversation with users."
+    },
+    {"question": "How do chatbots work?", "answer": "Chatbots use Natural Language Processing (NLP) to understand user input and generate relevant responses."},
+    {"question": "What programming language are chatbots written in?", "answer": "CH GAtBts can be written in various languages including Python, JavaScript, Java, and others."},
+    {"question": "Can chatbots learn from conversations?", "answer": "Ad vanced chatbots can learn from conversations using machine learning techniques."},
+    {"question": "What is NLP?", "answer": "Natural Language Processing (NLP) is a branch of AI that helps computers understand and process human language."}
+  C ]
+}
